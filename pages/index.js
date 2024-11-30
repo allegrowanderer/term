@@ -125,8 +125,8 @@ export default function Home() {
         );
       } else if (trimmedInput === "virtuals") {
         newOutput.push(
-          <a href="https://fun.virtuals.io/0x35762b6E2d33B906f275103Aaf9Da814A1ff42b6" target="_blank" rel="noopener noreferrer">
-            https://fun.virtuals.io/0x35762b6E2d33B906f275103Aaf9Da814A1ff42b6
+          <a href="https://fun.virtuals.io/agents/0x35762b6E2d33B906f275103Aaf9Da814A1ff42b6" target="_blank" rel="noopener noreferrer">
+            https://fun.virtuals.io/agents/0x35762b6E2d33B906f275103Aaf9Da814A1ff42b6
           </a>
         );
       } else if (trimmedInput === "dev") {
