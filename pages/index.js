@@ -114,7 +114,7 @@ export default function Home() {
       } else if (trimmedInput === "telegram") {
         newOutput.push(
           <a href="https://t.me/cabaltstrikeofficial" target="_blank" rel="noopener noreferrer">
-            https://t.me/cabaltstrikeofficial
+            https://t.me/cabaltstrikebot
           </a>
         );
       } else if (trimmedInput === "twitter") {
