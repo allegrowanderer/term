@@ -119,8 +119,8 @@ export default function Home() {
         );
       } else if (trimmedInput === "twitter") {
         newOutput.push(
-          <a href="https://x.com" target="_blank" rel="noopener noreferrer">
-            Coming soon
+          <a href="https://x.com/cabaltstrike" target="_blank" rel="noopener noreferrer">
+            https://x.com/cabaltstrike
           </a>
         );
       } else if (trimmedInput === "virtuals") {
