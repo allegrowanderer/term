@@ -119,14 +119,14 @@ export default function Home() {
         );
       } else if (trimmedInput === "twitter") {
         newOutput.push(
-          <a href="https://x.com/cabaltstrike" target="_blank" rel="noopener noreferrer">
-            https://x.com/cabaltstrike
+          <a href="https://x.com" target="_blank" rel="noopener noreferrer">
+            Coming soon
           </a>
         );
       } else if (trimmedInput === "virtuals") {
         newOutput.push(
-          <a href="https://fun.virtuals.io/" target="_blank" rel="noopener noreferrer">
-            https://fun.virtuals.io/
+          <a href="https://fun.virtuals.io/0x35762b6E2d33B906f275103Aaf9Da814A1ff42b6" target="_blank" rel="noopener noreferrer">
+            https://fun.virtuals.io/0x35762b6E2d33B906f275103Aaf9Da814A1ff42b6
           </a>
         );
       } else if (trimmedInput === "dev") {
